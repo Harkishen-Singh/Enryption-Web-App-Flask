@@ -6,8 +6,8 @@ al = []
 dic = {}
 wr = ""
 trail = {}
-new_file2=""
-filename=""
+new_file2 = ""
+filename = ""
 
 class Encryption():
 
