@@ -1,13 +1,9 @@
-changelog:
-  - release for encryption-engine web application
-  - automated
-  
- fedora: false
- 
- author_name: Harkishen Singh
- author_email: harkishensingh@hotmail.com
- 
- labels:
-  - encryption engine
-  - heroku platform
-  - handled by user-bot-harkishen-release
+python_versions:
+  - 3
+# whether to allow bot to make PRs based on issues
+trigger_on_issue: true
+
+labels:
+  - encryption engine web app
+  - release-bot
+  - automated harkishen
