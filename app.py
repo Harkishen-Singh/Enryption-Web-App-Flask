@@ -9,8 +9,6 @@ trail = {}
 new_file2 = ""
 filename = ""
 
-# handling encryptions
-
 class Encryption():
 
     def code_allocation2(self):
