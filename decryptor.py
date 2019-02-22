@@ -1,5 +1,7 @@
 import random
 
+# decrypting
+
 class decryptor :
     
     def assigning_key(self, data):
